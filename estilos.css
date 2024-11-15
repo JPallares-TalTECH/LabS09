@@ -1,6 +1,6 @@
 /* Estilos para el encabezado */
 header {
-    background-color: rgb(11, 23, 11);
+    background-color: rgb(38, 66, 38);
     padding: 20px;
     text-align: center;
     color: white;
@@ -15,11 +15,11 @@ nav a {
 }
 
 nav a:hover {
-    color: aquamarine;
+    color: rgb(132, 228, 196);
 }
 
 /* Estilos para la sección principal */
-.container {
+.contenedor {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
